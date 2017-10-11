@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameMultiplication</string>
+    <string name="iniciar" translatable="false">Start</string>
+    <string name="puntaje" translatable="false">Score</string>
+    <string name="resultado" translatable="false">Enter the result</string>
+    <string name="ganar" translatable="false">Congratulations, You won</string>
+    <string name="perder" translatable="false">Incorrect, try again.</string>
+    <string name="acerca" translatable="false">About</string>
+    <string name="programa" translatable="false">Systems Engineering</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Juego Multiplicación</string>
+    <string name="resultado" translatable="false">Ingrese el resultado</string>
+    <string name="puntaje" translatable="false">Puntaje</string>
+    <string name="iniciar" translatable="false">Iniciar</string>
+    <string name="ganar" translatable="false">Felicitaciones, ganaste</string>
+    <string name="perder" translatable="false">Incorrecto, intentalo nuevamente.</string>
+    <string name="acerca" translatable="false">Acerca de</string>
+    <string name="programa">Ingeniería de Sistemas</string>
+
+
+</resources>
